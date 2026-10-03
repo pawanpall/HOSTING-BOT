@@ -42,14 +42,14 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8710917443:AAGUk6HVFi_6Bzb9ZycpLXrBqQStXjPJHrI'
-OWNER_ID = 8416077220
-ADMIN_ID = 8416077220
-YOUR_USERNAME = '@iown3'
-UPDATE_CHANNEL = '@h4rsxhuuuu'
+TOKEN = '8632338891:AAH-aa_tnf16tm0aC_wxgn8cGbRTLpBVZxE'
+OWNER_ID = 1819675229
+ADMIN_ID = 1819675229
+YOUR_USERNAME = '@pawanpall'
+UPDATE_CHANNEL = '@indiandbms'
 
 # --- Force Subscription Channel ---
-REQUIRED_CHANNEL = '@h4rsxhuuuu'  # Users must join this channel to use the bot
+REQUIRED_CHANNEL = '@indiandbms'  # Users must join this channel to use the bot
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 UPLOAD_BOTS_DIR = os.path.join(BASE_DIR, 'upload_bots')
